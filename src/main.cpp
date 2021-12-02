@@ -2,8 +2,9 @@
 
 int main()
 {
-    std::cout << "CPP is working..\n\n" << std::endl;
-    print_hello();
+    std::cout << "Learning process is starting\n" << std::endl;
+    std::cout << "C language std=c11\n" << std::endl;
+    RunLearnPartsCL();
 
     return 0;
 }

@@ -1,6 +1,10 @@
 #include "l-c-cpp.h"
 
-void print_hello()
-{
-    printf("c-function is working...\n");
-}
+
+// run learn function here
+void RunLearnPartsCL()
+ {
+     // learn simple types int, char, float, double, bool
+    MainTestST() ;
+
+ }

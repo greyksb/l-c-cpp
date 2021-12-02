@@ -5,10 +5,14 @@
 extern "C" {
 
 #endif
+
     // C-function declarations are here
-    void print_hello() ;
+    void RunLearnPartsCL() ;
+    void MainTestST() ;
+    void TestInt() ;
 
 #include <stdio.h>
+#include <limits.h>
 
 #ifdef __cplusplus
 }

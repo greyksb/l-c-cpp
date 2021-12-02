@@ -27,9 +27,9 @@ RM = rm -fv
 # compile mode and options for compilers, preprocessor and linker
 C_MODE := DEBUG  # DEBUG or RELEASE
 
-CFLAGS_DEBUG = -std=c99 -g -O0 -Wall -pipe 
+CFLAGS_DEBUG = -std=c11 -g -O0 -Wall -pipe 
 CFLAGS_RELEASE = -std=c99 -O3 -pipe
-CXXFLAGS_DEBUG = -g -O0 -Wall -pipe
+CXXFLAGS_DEBUG = -std=c++14 -g -O0 -Wall -pipe
 CXXFLAGS_RELEASE = -O3 -pipe 
 CPPFLAGS =  
 #LDFLAGS = --static
