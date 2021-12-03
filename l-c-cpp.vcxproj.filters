@@ -24,6 +24,9 @@
     <ClCompile Include="src\test-c.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\SimpleTypes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\l-c-cpp.h">

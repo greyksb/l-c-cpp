@@ -11,13 +11,11 @@ extern "C" {
     void MainTestST() ;
     void TestInt() ;
 
-#include <stdio.h>
-#include <limits.h>
 
 #ifdef __cplusplus
 }
 
-#include <iostream>
+
 
 #endif
 

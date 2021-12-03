@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\SimpleTypes.c" />
     <ClCompile Include="src\test-c.c" />
   </ItemGroup>
   <ItemGroup>
