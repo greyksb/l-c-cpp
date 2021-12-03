@@ -5,6 +5,6 @@
 void RunLearnPartsCL()
  {
      // learn simple types int, char, float, double, bool
-    MainTestST() ;
+    //MainTestST() ;
 
  }

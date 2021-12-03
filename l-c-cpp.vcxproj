@@ -145,11 +145,14 @@
     <None Include="Makefile" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\ColorOutput.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\RunCppFunctions.cpp" />
     <ClCompile Include="src\SimpleTypes.c" />
     <ClCompile Include="src\test-c.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\ks_ecolor.h" />
     <ClInclude Include="include\l-c-cpp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

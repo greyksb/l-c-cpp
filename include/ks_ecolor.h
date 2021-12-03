@@ -50,7 +50,7 @@
 #define KS_FC_YELLOW        "\E[33m"
 #define KS_FC_BYELLOW       "\033[1m\E[33m"
 #define KS_FC_BLUE          "\E[34m"
-#define KS_FC_BBLUE         "\033[1m\E[34m"
+#define KS_FC_BBLUE         "\033[1m\033[34m"
 #define KS_FC_MAGENTA       "\E[35m"
 #define KS_FC_BMAGENTA      "\033[1m\E[35m"
 #define KS_FC_CYAN          "\E[36m"

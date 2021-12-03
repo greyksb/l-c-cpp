@@ -27,9 +27,18 @@
     <ClCompile Include="src\SimpleTypes.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\ColorOutput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\RunCppFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\l-c-cpp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ks_ecolor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -15,7 +15,8 @@ extern "C" {
 #ifdef __cplusplus
 }
 
-
+void RunCppFunctions();
+void SimplePrintTest();
 
 #endif
 
