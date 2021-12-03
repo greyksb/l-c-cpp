@@ -17,6 +17,7 @@ extern "C" {
 
 void RunCppFunctions();
 void SimplePrintTest();
+void ShowLimits();
 
 #endif
 

@@ -22,10 +22,10 @@ void TestInt()
     printf("unsigned int size is %d\n", sizeOfType);
 
     long val_L = 0L ;
-    printf("long size is %lld\n", sizeof(val_L)) ;
+    printf("long size is %ld\n", sizeof(val_L)) ;
 
     long long val_LL = 0LL ; 
-    printf("long long size is %lld\n", sizeof(val_LL)) ;
+    printf("long long size is %ld\n", sizeof(val_LL)) ;
 
 
 }
