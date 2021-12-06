@@ -119,6 +119,8 @@
       <LanguageStandard>stdcpp17</LanguageStandard>
       <LanguageStandard_C>stdc11</LanguageStandard_C>
       <AdditionalIncludeDirectories>X:\1\C-CPP\l-c-cpp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>
+      </AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -146,10 +148,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\ColorOutput.cpp" />
+    <ClCompile Include="src\Limits.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\OutputUTF8toConsole.cpp" />
     <ClCompile Include="src\RunCppFunctions.cpp" />
     <ClCompile Include="src\SimpleTypes.c" />
     <ClCompile Include="src\test-c.c" />
+    <ClCompile Include="src\TypeAndSize.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\ks_ecolor.h" />

@@ -18,6 +18,10 @@ extern "C" {
 void RunCppFunctions();
 void SimplePrintTest();
 void ShowLimits();
+void ShowSomeSizes();
+void PrintHelloUTF8();
+
+
 
 #endif
 

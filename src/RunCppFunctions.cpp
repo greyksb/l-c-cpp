@@ -3,6 +3,10 @@
 void RunCppFunctions()
 {
     // SimplePrintTest();
-    ShowLimits();
+    // ShowLimits();
+    // ShowSomeSizes();
+    PrintHelloUTF8();
+
+
 
 }
